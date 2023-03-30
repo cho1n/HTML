@@ -13,9 +13,20 @@
 }
 
 .content{
+    font-size: 12px;
+    text-align: center;
     color:darkslateblue;
 }
 
-#special {
-    font-size: 12px; text-align: center;
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    margin: auto;
+    padding: 40px;
+    border-radius: 6px;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    box-shadow: 10px 5px 5px rosybrown;
 }
