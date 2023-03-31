@@ -12,7 +12,7 @@
     text-align: center; 
 }
 
-.content{
+p {
     font-size: 12px;
     text-align: center;
     color:darkslateblue;
@@ -21,12 +21,12 @@
 .box {
     width: 100px;
     height: 100px;
-    background-color: cadetblue;
+    background-color: black;
     margin: auto;
     padding: 40px;
     border-radius: 6px;
     text-align: center;
     font-size: 10px;
     color: white;
-    box-shadow: 10px 5px 5px rosybrown;
+    box-shadow: 10px 5px 5px yellowgreen;
 }
